@@ -69,12 +69,3 @@ elif arvuti > kasutaja:
     print(f"Arvuti võit {arvuti}:{kasutaja}")
 else:
     print(f"Lõppes viigiga {kasutaja}:{arvuti}")
-
-
-
-
-
-
-
-
-
